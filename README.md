@@ -1,6 +1,6 @@
 # Capstone Project: Methyl Benzoate Process Design
 
-![Project Banner](Flowsheet.png) <!-- Replace with actual image if available -->
+![Project Banner](Flowsheet.jpg) <!-- Replace with actual image if available -->
 
 ## Overview
 This repository contains the documentation, reports, simulations, and analyses for the CHE453 Process Design Capstone Project at the Indian Institute of Technology Kanpur. The project focuses on designing an economic flowsheet for the production of Methyl Benzoate via esterification of Benzoic Acid with Methanol. It integrates chemical engineering principles, including process synthesis, simulation using Aspen Plus, thermodynamic modeling, economic analysis, and energy optimization.
